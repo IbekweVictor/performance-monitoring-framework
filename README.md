@@ -1,9 +1,3 @@
-Got it 👍 — let’s make it **simpler, cleaner, and more natural**, while still professional.
-Here’s a **minimal but complete** README that’s perfect for GitHub 👇
-
----
-
-````markdown
 # 🚀 Locust Performance Monitoring
 
 A lightweight setup for performance testing with **Locust**, visualized in **Grafana**, and monitored by **Prometheus** via the **Locust Exporter**.
@@ -22,7 +16,7 @@ A lightweight setup for performance testing with **Locust**, visualized in **Gra
 
 ### 1️⃣ Clone the project
 ```bash
-git clone https://github.com/<your-username>/locust-monitoring.git
+git clone https://github.com/IbekweVictor/locust-performance-monitoring.git
 cd locust-monitoring
 ````
 
@@ -96,10 +90,3 @@ MIT © 2025
 
 Made with ❤️ for performance engineers.
 
-```
-
----
-
-Would you like this version to include **one image of your Grafana dashboard** at the top (for GitHub presentation)?  
-It gives the README a more polished, professional look.
-```
